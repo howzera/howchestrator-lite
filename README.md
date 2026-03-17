@@ -1,7 +1,6 @@
 # 🧠 Howchestrator LITE
 ### High-Performance Generic Resource Orchestrator in Go
 
-![Howchestrator Banner](./assets/banner.png)
 
 > **"Orchestration isn't just about servers. It's about total control over your distributed workload."**
 
