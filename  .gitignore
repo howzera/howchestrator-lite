@@ -1,0 +1,17 @@
+# Generic Go ignores
+bin/
+tmp/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Specific to Howchestrator
+.env
+control-plane/control-plane
+agent/agent
+shared/shared
+
+# OS-specific
+.DS_Store
+Thumbs.db
